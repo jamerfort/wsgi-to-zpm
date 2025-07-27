@@ -63,7 +63,7 @@ Depending on your responses, something like the following lines will be added to
 </Export>
 ```
 
-## Installing Via ZPM
+## Installing Your WSGI App Via ZPM
 
 ### Demo Setup
 Note: If you would like to try out this process from a Docker image, follow these steps:
