@@ -7,6 +7,7 @@ name = "wsgi_to_zpm"
 authors = [{name = "jamerfort", email = "jamerfort+pypi@gmail.com"}]
 license = "MIT"
 license-files = ["LICENSE"]
+readme = "README.md"
 dynamic = ["version", "description"]
 dependencies = [
   "lxml",
